@@ -1,0 +1,34 @@
+.abc{
+    margin-top: 0px;  
+    position:absolute;
+    left: 3%;
+    top: 15%;
+    z-index: 100;
+    max-width: 30%;
+    height: auto;
+}
+
+.dung-text{
+    position:absolute;
+    z-index: 100;
+    color: white;
+    text-align: center;
+    margin-top: 15%;
+}
+
+h1{
+    color: var( --e-global-color-786d8f2 );
+    font-family: "Montserrat", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p{
+    line-height: 1.5;
+    margin: 0 0 1em 0;
+}
+
+.bia{
+    width: auto;
+    height: auto;
+}
